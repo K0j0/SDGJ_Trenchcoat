@@ -20,5 +20,4 @@ Zach Chase
 
 
 You can play the game online here
-<br />
 http://www.kojokumah.com/SDGJ/TrenchCoat/WebBuild.html
